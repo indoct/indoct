@@ -28,7 +28,7 @@ Hi! I'm indoc and I'm passionate about making things. I sit somewhere in the int
 
 ### :nerd_face: Stats
 
-[![Indoct's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=indoct&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Indoct's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=indoct&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
