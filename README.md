@@ -12,7 +12,7 @@ Hi! I'm indoc and I'm passionate about making things. I sit somewhere in the int
 ![TypeScript](https://img.shields.io/badge/-TypeScript-dbf093?&logo=typescript&style=for-the-badge&logoColor=201f1d)
 ![Redux](https://img.shields.io/badge/-Redux-dbf093?&logo=redux&style=for-the-badge&logoColor=201f1d)
 ![HTML](https://img.shields.io/badge/-HTML5-dbf093?&logo=html5&style=for-the-badge&logoColor=201f1d)
-![CSS](https://img.shields.io/badge/-CSS3-dbf093?&logo=css3&style=for-the-badge&logoColor=201f1d)
+![CSS](https://img.shields.io/badge/-CSS3-dbf093?&logo=css3&style=for-the-badge&logoColor=201f1d)\
 ![Git](https://img.shields.io/badge/-Git-dbf093?&logo=git&style=for-the-badge&logoColor=201f1d)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-dbf093?&logo=bootstrap&style=for-the-badge&logoColor=201f1d)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-dbf093?&logo=wordpress&style=for-the-badge&logoColor=201f1d)
@@ -35,5 +35,5 @@ Hi! I'm indoc and I'm passionate about making things. I sit somewhere in the int
 
 I'm open to collaboration or questions, etc. Get in touch via email/discord at:
 
-[![Gmail](https://img.shields.io/badge/-indoc.dev0-62e8e8?&logo=gmail&style=for-the-badge&logoColor=201f1d)](mailto:indoc.dev0@gmail.com)\
+[![Gmail](https://img.shields.io/badge/-indoc.dev0-62e8e8?&logo=gmail&style=for-the-badge&logoColor=201f1d)](mailto:indoc.dev0@gmail.com) &emsp;
 [![Discord](https://img.shields.io/badge/-indoc.-62e8e8?&logo=discord&style=for-the-badge&logoColor=201f1d)](https://discord.com)
